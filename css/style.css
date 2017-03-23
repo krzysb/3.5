@@ -1,0 +1,23 @@
+body{
+    background: #eee;
+}
+
+.main{
+    margin-top:30px;
+    background: #fff;
+    padding: 50px;
+}
+input{
+    background: #666;
+}
+
+span:before{
+    content: "Przeglądaj";
+}
+
+.status{
+    display: inline;
+}
+.buttons{
+    padding-top:20px;
+}
